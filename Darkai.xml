@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<pokemon generation="1" pokedexNumber="1" classification="Seed Pokémon">
+    <name>Darkai</name>
+    <type>bug</type>
+    <hp>65</hp>
+    <attack>73</attack>
+    <defense>75</defense>
+    <speed>85</speed>
+    <sp_attack>47</sp_attack>
+    <sp_defense>85</sp_defense>
+    <height>
+        <m>0.7</m>
+    </height>
+    <weight>
+        <kg>17.7</kg>
+    </weight>
+    <abilities>
+        <ability>Swarm</ability>
+        <ability>Illuminate</ability>
+        <ability>Prankster</ability>
+    </abilities>
+</pokemon>
